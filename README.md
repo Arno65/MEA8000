@@ -1,7 +1,7 @@
 
     MEA8000_Sounds.cpp
 
-    This is a data collections of MEA8000 sounds, the ones I know of.
+    This is a data collection of MEA8000 sounds, the ones I know off.
     It's mainly a collection of data from French BASIC programs and French data sets. 
     This data is copied and OCR-ed from 1980's scanned printouts.
     The code in this file is for Arduino projects. Via <avr/pgmspace.h> the data will not
@@ -12,7 +12,7 @@
     I asume that if you need this data in another programming language (of environment) it will
     be easy to reformat the code.
 
-    Info on the Philips MEA8000 voice synthesizer chip: 
+    Info on the Philips MEA8000 voice synthesizer chip:\
     http://c.papy.free.fr/ZX81/original/mea8000-1.pdf
 
 
