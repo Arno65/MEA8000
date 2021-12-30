@@ -1,4 +1,4 @@
-#MEA8000 speech chip software
+# MEA8000 speech chip software
 
     MEA8000_Sounds.cpp
 
